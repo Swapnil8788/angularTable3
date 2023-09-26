@@ -1,0 +1,90 @@
+.labelContainer{
+    margin-bottom: 53px;
+    display: inline-block;
+    /* padding-left: 18px; */
+    width: 100%;
+} 
+
+.inputEl1 {
+    margin-left: 20px;
+    width: 60%;
+    height: 34px;
+}
+.inputEl12{
+    margin-left: 50px;
+    width: 60%;
+    height: 34px;
+
+}
+.inputEl2{
+    margin-left: 12px;
+    width: 60%;
+    height: 34px;
+}
+.inputEl3{
+    margin-left: 61px;
+    width: 60%;
+    height: 34px;
+    
+}
+.inputEl4{
+    margin-left: 47px;
+    width: 60%;
+    height: 34px;
+}
+.addButton{
+    position: relative;
+    right: 0;
+}
+.inputEl5{
+    margin-left: 44px;
+    width: 60%;
+    height: 34px;
+}
+.PriceColumn{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.buttonEl{
+    margin-left: 500px;
+}
+.usersListHeading{
+    font-size: 30px;
+} 
+.selectContainer{
+    width: 60%;
+    height: 34px;
+}
+.spanWarningEl{
+    color: red;
+    font-size: 13px;
+}
+.editIcon{
+    padding-right: 15px;
+}
+
+.nameWarning{
+    color: red;
+    margin-left: 60px;
+}
+.isInvalid:valid{
+    color: red;
+}
+.cancelButton{
+    margin-left: 33px;
+}
+input[type='number'] {
+
+    -moz-appearance: textfield;
+
+}
+
+input::-webkit-outer-spin-button,
+
+        input::-webkit-inner-spin-button {
+
+            -webkit-appearance: none;
+
+            margin: 0;
+
+        }
